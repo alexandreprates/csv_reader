@@ -1,0 +1,16 @@
+
+		== CSV Reader ==
+
+  O CsvReader é um parser de CSV que gera uma coleção de objetos com atributos iguais
+aos campos discriminados no HEADER (primeira linha) do arquivo.
+
+  Escrito durante a TechTrusday da Agence/MS o codigo tenta exprimir as boas práticas
+e aspectos da linguagem ruby alem de demonstrar o processo de criação de uma aplicação
+ruby orientada a testes.
+
+  Caso exista alguma dúvida ou questionamento em qualquer parte deste projeto entre
+em contato pelo e-mail alexandre.prates@agence.com.br
+
+	== Exemplos de utilização ==
+
+	(em breve)
